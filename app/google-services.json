@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "999843916392",
+    "firebase_url": "https://myfirebaseproject-e356a.firebaseio.com",
+    "project_id": "myfirebaseproject-e356a",
+    "storage_bucket": "myfirebaseproject-e356a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999843916392:android:1561572001630b77",
+        "android_client_info": {
+          "package_name": "com.example.teja2.chatroomfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999843916392-u0lqbule1l8tjelbut9u82rcjnv98orc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teja2.chatroomfirebase",
+            "certificate_hash": "f7cb274aba32537d20c8347f5eee9343f7b2e962"
+          }
+        },
+        {
+          "client_id": "999843916392-74v0hpula41rl59r85m16j32r65o1uuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTxJkR-0s-0kqIDm4IZIiN5ZtcJL6Uzbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999843916392-74v0hpula41rl59r85m16j32r65o1uuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999843916392:android:9e542ee9936f22f9",
+        "android_client_info": {
+          "package_name": "com.example.teja2.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999843916392-usq4b3lt0ffv532ju4ea7hchqsat8ivc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teja2.tripplanner",
+            "certificate_hash": "f7cb274aba32537d20c8347f5eee9343f7b2e962"
+          }
+        },
+        {
+          "client_id": "999843916392-74v0hpula41rl59r85m16j32r65o1uuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTxJkR-0s-0kqIDm4IZIiN5ZtcJL6Uzbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999843916392-74v0hpula41rl59r85m16j32r65o1uuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
